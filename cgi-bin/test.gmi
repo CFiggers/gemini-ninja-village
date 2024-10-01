@@ -1,0 +1,4 @@
+#!/usr/bin/python3
+import os
+print('20 text/gemini\r')
+print('Hello from CGI,', os.getenv('REMOTE_ADDR'))

@@ -1,0 +1,17 @@
+# NINJA VILLAGE
+
+Have ninjas, win fights, get ninja loot!
+
+## Main Menu
+
+=> ? Login/Create Identity
+
+## Information 
+
+=> ? Leaderboard
+=> ? Community BBS
+
+## External Links
+
+=> /cgi-bin/test.gmi Test CGI Script
+=> /cgi-bin/script.clj Test Clojure Script (ha)
